@@ -1,57 +1,44 @@
 ---
 title: Bonjour
 order: 0
-header: Services and Applications over Linked APIs and Data
+header: Workshop on Semantic Web Enterprise Adoption and Best Practice
 ---
 
-Welcome to the homepage of the SALAD2013 ESWC workshop.
+Welcome to the homepage of the WaSABi2013 ISWC workshop.
 
 ## The challenge
 
-Current developments on the Web have been marked
-by the increased popularity of *Linked Data* and *Web APIs*.
-However, these two technologies remain mostly disjunct
-in terms of developing solutions and applications in an integrated way.
-Therefore, we aim to explore the possibilities
-of facilitating a *better integration* of Web APIs and Linked Data,
-thus enabling the *harvesting and provisioning of data*
-through applications and services on the Web.
-In particular, we focus on investigating how resources exposed via Web APIs
-can be used *together with Semantic Web data*,
-as means for enabling a shared use and providing
-a basis for *developing rich applications* on top.
+Over the years, *Semantic Web* based systems, applications, and tools have shown significant improvement. 
+Their development and deployment shows the steady maturing of semantic technologies and demonstrates their value in solving current and emerging problems. 
+Examples include enabling generic clients, facilitating autonomous agents and large scale distributed data integration. Despite the encouraging figures, the number of enterprises working on and with these technologies is dwarfed by the large number who have not yet adopted semantic technologies. Current adoption is mainly restricted to methodologies provided by the research community. Although Semantic Web acts as candidate technology to the industry, it does not win through in current enterprise challenges like data fusion, data integration or natural language processing (e.g. IBM Watson). To better understand the market dynamics uptake needs to be addressed and if possible quantified.
 
 ------
 
 ## The workshop
-With this workshop, we aim to discover new ways
-to embrace the opportunities that Web APIs offer
-in terms of *data consumption*, *processing* and *provisioning*
-but also to investigate the possibilities
-of integrating them more closely with Linked Data.
-We want to challenge researchers towards
-developing *integrated description and implementation approaches*
-through both paper submissions and interactive on-site discussion and dialog.
-In particular, we are looking for description approaches, implementation solutions,
-use cases and applications that support a *more automated and unified* Web API use.
+The workshop organizer team believes that an open dialog between research and industry would be beneficial and aims at a discussion in terms of best practices for enabling better market access. The workshop will elicitate a set of best practices for the development and deployment of semantic technologies. So far we have identified but are not limited to the following areas:
+- The current disruptiveness of Semantic Web technology: past investments, time-to-market and compatibility with connected systems need to be considered. This raises concerns with new technologies – “Nobody ever got fired for buying IBM”, as an old saying goes – and making radical changes.
+- The lack of architectural modelling approaches using Semantic Web technology: A successful tool stack for semantic technology development has not yet emerged, nor are there recommended system architectures for developing and deploying ontology- and RDF-backed applications. Does the traditional three tier architecture suffice, or are other structures required?
+- The existing gaps between academic research, applied research and industrial research and development.
+- Insecurity regarding which vocabularies, standards, and technologies will survive in the marketplace and are worth betting on and investing in. They might even be revised from time to time which cause difficulties in distributed environments like the W3.
+- The lack of knowledge among laymen regarding suitable and scalable workflows for large amounts of semantic data. For instance, how much reasoning should take place at load time, and how much at query time? Should federated queries be used, or should data be batch imported and cached locally?
+- The lack of coordination processes and routines in a distributed knowledge/data landscape. Can a user or company trust that the data they rely on, which is provided by another party, will be of sufficient quality? Can data quality SLAs be established? How is the value of data to be calculated, and who is to pay who for what?
+- The lack of knowledge among laymen regarding comparative strengths and weaknesses of competing semantic technologies. Which reasoner is best for which type of use case? Which triple store? Is there any one such tool which is good enough in most cases to be a reasonable general recommendation?
+
 
 ------
 
 ## The goals
-The main goal of this workshop is to explore the possibilities
-of enabling a more integrated and automated use of Web APIs,
-given the context of the *growing importance of Linked Data and applications*,
-benefiting from the available resources.
+The Workshop on Semantic Web Enterprise Adoption and Best Practice is intended to close the gap between the industry tracks and research tracks at ISWC2013. Topics for presentation and discussion at the workshop include both technical and usage-oriented issues. They include everything that helps shortening development and deployment time for an academic or a practitioner, wishing to work with semantic technologies.
 Relevant topics include:
 
-- **frameworks**, **methods**, **models** and **formats** for describing Web APIs
-- identifying the **essential building blocks** for enabling integrated and linked use of Web APIs
-- pinpointing **challenges** to move from individual Web APIs towards **integrated solutions**
-- capturing **added value** through the use of Web APIs, Linked Data and development of **client
-apps**
-- developing technologies for a **sustainable**, **future-proof** integrated Web API environment.
+- Surveys or case studies on Semantic Web technology in enterprise systems
+- Comparative studies on the evolution of Semantic Web adoption
+- Semantic systems and architectures of methodologies for industrial challenges
+- Semantic Web based implementations and design patterns for enterprise systems
+- Enterprise platforms using Semantic Web technology as part of the workflow
+- Architectural overviews for Semantic Web systems
+- Design patterns for semantic technology architectures and algorithms
+- System development methods as applied to semantic technologies
+- Semantic toolkits for enterprise applications
+- Surveys on identified best practices based on Semantic Web technology
 
-The above list is not exhaustive and we therefore actively encourage participants to be *creative*.
-<br>
-A final goal is to provide future initiatives with the devised ideas
-and visions to *stimulate innovation* in this research area.
