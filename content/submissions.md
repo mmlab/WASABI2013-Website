@@ -1,5 +1,5 @@
 ---
-title: A la carte
+title: Submissions
 order: 1
 ---
 
