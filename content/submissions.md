@@ -5,63 +5,64 @@ order: 1
 
 ## Call for papers
 
-### SALAD ingredients
+### WaSABi Summary
 
 Who?
-: people from the Semantic Web, Web services, and REST communities
+: people from the Semantic Web, ...
 
 What?
 : novel ideas, concepts, and applications that combine Linked Data and Web APIs / services
 
 When?
-: ESWC workshop on May 26, 2013 – submission deadline: March 15, 2013
+: ISWC workshop on Oct 21/22, 2013 – submission deadline: July 12, 2013
 
 How?
-: an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/aperitif/)
+: an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/keynote/)
 
 Where?
-: Montpellier, France at the [ESWC conference](http://2013.eswc-conferences.org/)
+: Sydney, Australia at the [ISWC conference](http://iswc2013.semanticweb.org/)
 
-### Recipe
+### Description
 Current developments on the Web have been marked by the increased use and popularity of Linked Data and Web APIs. However, these two technologies remain mostly disjunct in terms of developing solutions and applications in an integrated way. Therefore, we aim to explore the possibilities of facilitating a better integration of Web APIs and Linked Data, thus enabling the harvesting and provisioning of data through applications and services on the Web. In particular, we focus on investigating how resources exposed via Web APIs can be used together with Web semantic data, as means for enabling a shared use and providing a basis for developing rich applications on top.
 
-### Shopping list
-The main goal of this workshop is to explore the possibilities of enabling a more integrated and automated use of Web APIs, given the context of the growing importance of Linked Data and applications, benefiting from the available resources. Relevant topics include:
+### Topics
+- Surveys or case studies on Semantic Web technology in enterprise systems
+- Comparative studies on the evolution of Semantic Web adoption
+- Semantic systems and architectures of methodologies for industrial challenges
+- Semantic Web based implementations and design patterns for enterprise systems
+- Enterprise platforms using Semantic Web technology as part of the workflow
+- Architectural overviews for Semantic Web systems
+- Design patterns for semantic technology architectures and algorithms
+- System development methods as applied to semantic technologies
+- Semantic toolkits for enterprise applications
+- Surveys on identified best practices based on Semantic Web technology
 
-  - integrated use of Linked Data and Web APIs
-  - moving from individual APIs and data sets towards integrated solutions
-  - differences and parallels between Linked Data and Web APIs
-  - semantically discovering, searching, and browsing Web APIs
-  - describing Web APIs and Linked Data
-  - intelligent clients for Linked Data and APIs
-  - methods for automatically dealing with failures in Web APIs
-  - approaches for the creation of Web API directories
 
 The above list is not exhaustive and we therefore actively encourage participants to be creative.
 A final goal is to provide future initiatives with the devised ideas and visions to stimulate innovation in this research area.
 
-### Preparation instructions
+### Submissions
 Would you like to show your work at the SALAD workshop? Great!
 We offer several opportunities to participate in SALAD:
 
-- long papers: up to 8 pages (if you need more, [just e-mail us](mailto:eswcsalad2013@gmail.com))
-- short papers: up to 4 pages
-- demos: up to 2 pages
-- food for thought: 1 page / slide / web page / image / movie
+Short papers and long papers are accepted at the workshop.
+- Long papers focus on surveys, new approaches, architectures, or tools demonstrating best practices in Semantic Web technologies. Submissions in this category are limited to 8 pages. Accepted authors are given a time slot of 15 minutes, followed by 5 minutes Q&A.
+- Short papers or Position papers focus on novel ideas, visions or topics that raise discussion concerning the adoption of Semantic Web technologies. Submissions in this category are limited to 4 pages. Accepted authors are given a time slot of 10 minutes, followed by 5 minutes Q&A or, depending on the topic, 10 minutes of shared panel discussion.
 
-Your submission can be posted through [EasyChair](https://www.easychair.org/conferences/?conf=salad2013) or [e-mailed](mailto:eswcsalad2013@gmail.com).
 
-Accepted papers will be published as CEUR workshop proceedings. Selected papers will be included in a separate ESWC workshop papers volume.
+Your submission can be posted through [EasyChair](https://www.easychair.org/conferences/?conf=wasabi2013) or [e-mailed](mailto:iswcwasabi2013@gmail.com).
 
-### Preparation time
-<del>Submission</del>
-: <del>March 15, 2013</del>
+Accepted papers will be published as CEUR workshop proceedings. Selected papers will be included in a separate ISWC workshop papers volume.
 
-<del>Notification</del>
-: <del>April 1, 2013</del>
+### Important dates
+Submission
+: July 12, 2013
+
+Notification
+: Aug 9, 2013
 
 Camera ready
-: April 15, 2013
+: Aug 15, 2013
 
 Workshop
-: May 26, 2013
+: Oct 22, 2013
