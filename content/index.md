@@ -1,5 +1,5 @@
 ---
-title: Bonjour
+title: Introduction
 order: 0
 header: Workshop on Semantic Web Enterprise Adoption and Best Practice
 ---
