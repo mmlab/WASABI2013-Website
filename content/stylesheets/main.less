@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  font-family: 'Domine', serif;
+  font-family: 'BebasNeue', serif;
   font-size: 11pt;
   line-height: 1.8em;
   max-width: 800px;
@@ -39,7 +39,7 @@ hr {
   border: none;
   &:before {
     margin: .5em 0 .2em;
-    content: "~~~~~";
+    content: "- - -";
     display: block;
     text-align: center;
     font-size: 5em;
@@ -104,7 +104,7 @@ nav {
     font-variant: small-caps;
 
     &:after {
-      content: "♦";
+      content: "|";
       font-size: .6em;
       vertical-align: middle;
       margin: 0 32px;
@@ -152,7 +152,7 @@ nav {
 
   h1, h2, h3 {
     &:before, &:after {
-      content: " ~ ";
+      content: " - ";
     }
   }
 
@@ -169,7 +169,7 @@ nav {
       list-style: none;
 
       &:before {
-        content: "~";
+        content: "-";
         font-size: 1.6em;
         color: @green;
         position: absolute;
@@ -312,4 +312,9 @@ bottom:0px;
       font-size: 1.2em;
     }
   }
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/BebasNeue.otf');
 }
