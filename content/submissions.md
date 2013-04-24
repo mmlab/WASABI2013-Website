@@ -24,7 +24,7 @@ Where?
 
 ### Description
 
-Current developments on the Web have been marked by the increased use and popularity of Linked Data and Web APIs. However, these two technologies remain mostly disjunct in terms of developing solutions and applications in an integrated way. Therefore, we aim to explore the possibilities of facilitating a better integration of Web APIs and Linked Data, thus enabling the harvesting and provisioning of data through applications and services on the Web. In particular, we focus on investigating how resources exposed via Web APIs can be used together with Web semantic data, as means for enabling a shared use and providing a basis for developing rich applications on top.
+The workshop aims to help and guide the conversation between the scientific research community and industry with an eye towards the establishment of specific best practices. A common observation in the delayed adoption of semantic technologies is a lack of well-established practices, architectures and workflows. Both research and industry communities can benefit from a discussion about use cases, user stories, practical development issues and design patterns.
 
 ### Topics
 
