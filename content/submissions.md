@@ -49,14 +49,14 @@ A final goal is to provide future initiatives with the devised ideas and visions
 
 ### Submissions
 
-Contributions to the workshop can be made in the form of long research or experience papers, or short position papers. Both categories of submissions should adhere to the LNCS format guidelines (http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) and be submitted in PDF format.
+Contributions to the workshop can be made in the form of long research or experience papers, or short position papers. Both categories of submissions should adhere to the [LNCS format guidelines](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) and be submitted in PDF format.
 
 Long papers focus on studies, approaches, architectures, or tools demonstrating or suggesting best practices in Semantic Web technologies. Submissions in this category are recommended be no longer than 8 pages. Accepted authors are given a presentation time slot of 20 minutes, with 5 minutes Q&A.
 Short position papers focus on novel ideas, R&D directions, and early work in areas related to the workshop topics. Submissions in this category are recommended to be no longer than 4 pages. Accepted authors are given a presentation time slot of 10 minutes, followed by 5 minutes Q&A.
 
 Additionally, authors of selected papers will be asked to participate in a panel discussion on improving adoption of Semantic Web technologies.
 
-Contributions are submitted via EasyChair: https://www.easychair.org/conferences/?conf=wasabi2013
+Contributions are submitted via EasyChair: [https://www.easychair.org/conferences/?conf=wasabi2013](https://www.easychair.org/conferences/?conf=wasabi2013)
 
 ### Important dates
 
@@ -81,7 +81,7 @@ Workshop
 - Dominique Ritze, University of Mannheim
 - Miel Vander Sande, iMinds – Multimedia Lab – Ghent University
 
-For enquiries, please contact the organizers at wasabi2013@easychair.org
+For enquiries, please contact the organizers at [mailto:wasabi2013@easychair.org](wasabi2013@easychair.org)
 
 ### Program Committee
 - Konstantin Baierer, Ex Libris, Germany
