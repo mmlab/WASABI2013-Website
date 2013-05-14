@@ -81,7 +81,7 @@ Workshop
 - Dominique Ritze, University of Mannheim
 - Miel Vander Sande, iMinds – Multimedia Lab – Ghent University
 
-For enquiries, please contact the organizers at [mailto:wasabi2013@easychair.org](wasabi2013@easychair.org)
+For enquiries, please contact the organizers at [wasabi2013@easychair.org](mailto:wasabi2013@easychair.org)
 
 ### Program Committee
 - Konstantin Baierer, Ex Libris, Germany
