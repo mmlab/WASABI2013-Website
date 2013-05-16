@@ -29,7 +29,7 @@ title: Committee
 <!-- - Jem Rayfield, BBC, United Kingdom -->
 - Harald Sack, Hasso Plattner Institute, Germany
 - Kurt Sandkuhl, University of Rostock, Germany
-<!-- - He Tan, Jönköping University, Sweden -->
+- He Tan, Jönköping University, Sweden
 - Vladimir Tarasov, Jönköping University, Sweden
 - Sebastian Tramp, AKSW – University of Leipzig, Germany
 - Raphaël Troncy, Eurecom, France
