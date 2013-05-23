@@ -20,13 +20,12 @@ title: Committee
 - Frithjof Dau, SAP Research, Germany
 - Kai Eckert, University of Mannheim, Germany
 - Daniel Garijo, Technical University of Madrid, Spain
-<!-- - Corey A. Harper, New York University Libraries, USA -->
+- Corey A. Harper, New York University Libraries, USA
 - Michael Hausenblas, MapR Technologies, Ireland
 - Erik Mannens, iMinds – Ghent University, Belgium
 - Peter Mika, Yahoo! Research, Spain
 - Heiko Paulheim, University of Mannheim, Germany
 - Florian Probst, SAP Research, Germany
-<!-- - Jem Rayfield, BBC, United Kingdom -->
 - Harald Sack, Hasso Plattner Institute, Germany
 - Kurt Sandkuhl, University of Rostock, Germany
 - He Tan, Jönköping University, Sweden
