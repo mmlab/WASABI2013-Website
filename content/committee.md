@@ -12,7 +12,7 @@ title: Committee
 
 ## Program committee
 
-- Konstantin Baierer, Ex Libris, Germany
+- Konstantin Baierer, Berlin School of Library and Information Science, Germany
 - Panagiotis D. Bamidis, Aristotle University of Thessaloniki, Greece
 - Eva Blomqvist, Linköping University, Sweden
 - Andreas Blumauer, Semantic Web Company, Austria
