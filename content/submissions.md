@@ -61,7 +61,7 @@ Contributions are submitted via EasyChair: [https://www.easychair.org/conference
 ### Important dates
 
 Submission
-: July 12, 2013
+: July 19, 2013
 
 Notification
 : Aug 9, 2013
