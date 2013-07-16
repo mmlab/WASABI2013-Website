@@ -14,7 +14,7 @@ What?
 : novel ideas, concepts, and applications that demonstrate best practices and enterprise adoption of Semantic Web technology
 
 When?
-: ISWC workshop on Oct 21/22, 2013 – submission deadline: July 12, 2013
+: ISWC workshop on Oct 21/22, 2013 – submission deadline: July 19, 2013
 
 How?
 : an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/keynote/)
