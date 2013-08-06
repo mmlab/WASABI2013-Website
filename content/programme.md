@@ -3,6 +3,21 @@ title: Programme
 order: 3
 ---
 
+## Programme outline
+
+Date: Monday 21st of Octobre
+
+|               |                                  |
+| ------------- |:--------------------------------:|
+| 9:00          | Introduction by the Chair        |
+| 9:10          | Opening keynote: Jeen Broekstra  |
+| 9:40          | Paper session A                  |
+| 10:30         | Break                            |
+| 11:00         | Paper session B                  |
+| 11:50         | Closing keynote: TBA             |
+| 12:20         | Brainstorm session               |
+| 12:45         | End of the workshop              |
+
 ## Keynote
 
 
