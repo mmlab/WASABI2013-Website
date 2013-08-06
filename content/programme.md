@@ -7,7 +7,8 @@ order: 3
 
 Date: Monday 21st of Octobre
 
-
+| Time          | Topic                            |
+| ------------- |:--------------------------------:|
 | 9:00          | Introduction by the Chair        |
 | 9:10          | Opening keynote: Jeen Broekstra  |
 | 9:40          | Paper session A                  |
