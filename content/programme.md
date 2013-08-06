@@ -18,9 +18,6 @@ Date: Monday 21st of Octobre
 | 12:20         | Brainstorm session               |
 | 12:45         | End of the workshop              |
 
-## Keynote
-
-
 ## Accepted papers
 <ul>
 <%
