@@ -5,7 +5,7 @@ order: 3
 
 ## Programme outline
 
-Date: Monday 21st of Octobre
+Date: Tuesday 22nd of Octobre
 
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
