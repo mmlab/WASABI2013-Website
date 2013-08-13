@@ -6,7 +6,7 @@ header: Workshop on Semantic Web Enterprise Adoption and Best Practice
 
 Welcome to the homepage of the WaSABi2013 ISWC workshop.
 
-*13 Aug. 2013*: Programme and list of accepted papers is now [online](http://wasabi-ws.org/programme)
+*13 Aug. 2013*: Programme and list of accepted papers are now [online](http://wasabi-ws.org/programme)
 
 ## The challenge
 
