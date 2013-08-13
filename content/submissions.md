@@ -60,11 +60,11 @@ Contributions are submitted via EasyChair: [https://www.easychair.org/conference
 
 ### Important dates
 
-<del>Submission
-: July 19, 2013</del>
+<del>Submission</del>
+: <del>July 19, 2013</del>
 
 <del>Notification
-: Aug 9, 2013</del>
+: <del>Aug 9, 2013</del>
 
 Camera ready version
 : Aug 30, 2013
