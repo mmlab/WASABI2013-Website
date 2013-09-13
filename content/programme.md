@@ -14,7 +14,7 @@ Date: Tuesday 22nd of Octobre
 | 9:40          | Paper session A                  |
 | 10:30         | Break                            |
 | 11:00         | Paper session B                  |
-| 11:50         | Closing keynote: TBA             |
+| 11:50         | Closing keynote: Chris Welty     |
 | 12:20         | Brainstorm session               |
 | 12:45         | End of the workshop              |
 
