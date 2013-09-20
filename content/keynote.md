@@ -13,4 +13,4 @@ As a worker in both academia and private industry, he has extensive experience w
 Currently, he provides training and technical consultancy in New Zealand on the usage of linked data and semantic web technology, is still one of the lead developers on the OpenRDF Sesame project, and is also involved as the technical lead for the InsightNG Informed Navigation platform, an innovative tool for personal knowledge discovery.
 
 # Dr. Chris Welty
-Applications of best practice and architecture patterns in IBM Watson
+Chris Welty is a Research Scientist at the IBM T.J. Watson Research Center in New York. His principal area of research is Knowledge Representation, specifically ontologies and the semantic web, and he spends most of his time applying this technology to Natural Language Question Answering as a member of the DeepQA/Watson team. He is best known as a co-developer of the OntoClean methodology with Nicola Guarino, and as the co-chair of the W3C RIF working group.
