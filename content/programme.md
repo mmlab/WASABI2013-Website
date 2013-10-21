@@ -11,9 +11,11 @@ Date: Tuesday 22nd of Octobre
 | ------------- |:--------------------------------:|
 | 9:00          | Introduction by the Chair        |
 | 9:10          | Opening keynote: Jeen Broekstra  |
-| 9:40          | Paper session A                  |
+| 9:40          | Towards Linked Data based Enterprise Information Integration |
+|               | Adaptive Semantic Publishing     |
 | 10:30         | Break                            |
-| 11:00         | Paper session B                  |
+| 11:00         | On Managing Prefixes of LOD Vocabularies                  |
+|               | Boosting RDF Adoption in Ruby with Goo |
 | 11:50         | Closing keynote: Chris Welty     |
 | 12:20         | Brainstorm session               |
 | 12:45         | End of the workshop              |
