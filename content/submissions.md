@@ -14,19 +14,17 @@ What?
 : novel ideas, concepts, and applications that demonstrate best practices and enterprise adoption of Semantic Web technology
 
 When?
-: ISWC workshop on Oct 22, 2013 – submission deadline: July 19, 2013
+: ESWC workshop on May 25 or 26, 2014 – submission deadline: March 6, 2014
 
 How?
 : an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/keynote/)
 
 Where?
-: Sydney, Australia at the [ISWC conference](http://iswc2013.semanticweb.org/)
+: Crete, Greece at the [ESWC conference](http://2014.eswc-conferences.org/)
 
 ### Description
 
-In recent years Semantic Web based systems, applications and tools have shown significant improvement. Their increased deployment indicates a steady maturing of semantic technologies and demonstrates their value in solving current and emerging problems. Though the number of enterprises working on and with these technologies is dwarfed by the number who have not yet adopted semantic technologies. Possible reasons for this include lack of well known enterprise use cases and market dynamics in academia on the one hand, and lack of easy to use standard architectures, frameworks, and system design patterns on the other hand. 
-
-The goal for the Workshop on Semantic Web Enterprise Adoption and Best Practice is to foster adoption of Semantic Web technologies by helping to further bridge the gap between industry and academia. Topics for presentation and discussion at the workshop include technical and usage-oriented issues. The workshop aims to cover all matters that help in shortening development and deployment time for an academic or a practitioner wishing to work with semantic technologies.
+The workshop aims to helps to guide the conversation between the scientific research community and IT practitioners with an eye towards the establishment of best practices for the development and deployment of Semantic Web based technologies. Both research and industry communities can benefit from this discussion by sharing use cases, user stories, practical development issues, and design patterns.
 
 ### Topics
 
@@ -37,12 +35,12 @@ Authors are invited to consider the following (non exhaustive) list of topics:
 - Semantic systems and architectures of methodologies for industrial challenges
 - Semantic Web based implementations and design patterns for enterprise systems
 - Enterprise platforms using Semantic Web technology as part of the workflow
-- Semantic Big Data solutions addressing Volume, Velocity, Variety, and Veracity
 - Architectural overviews for Semantic Web systems
 - Design patterns for semantic technology architectures and algorithms
-- System development methodologies as applied to semantic technologies
+- System development methods as applied to semantic technologies
 - Semantic toolkits for enterprise applications
 - Surveys on identified best practices based on Semantic Web technology
+- Linked Data integration and change management
 
 The above list is not exhaustive and we therefore actively encourage participants to be creative.
 A final goal is to provide future initiatives with the devised ideas and visions to stimulate innovation in this research area.
@@ -51,26 +49,23 @@ A final goal is to provide future initiatives with the devised ideas and visions
 
 Contributions to the workshop can be made in the form of long research or experience papers, or short position papers. Both categories of submissions should adhere to the [LNCS format guidelines](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0) and be submitted in PDF format.
 
-Long papers focus on studies, approaches, architectures, or tools demonstrating or suggesting best practices in Semantic Web technologies. Submissions in this category are recommended be no longer than 8 pages. Accepted authors are given a presentation time slot of 20 minutes, with 5 minutes Q&A.
-Short position papers focus on novel ideas, R&D directions, and early work in areas related to the workshop topics. Submissions in this category are recommended to be no longer than 4 pages. Accepted authors are given a presentation time slot of 10 minutes, followed by 5 minutes Q&A.
+Papers that focus on uptake surveys, case studies, and new approaches, architectures, or tools demonstrating best practices in Semantic Web technologies are particularly encouraged. Paper submissions to the WaSABi workshop are limited to 8 pages. Accepted authors are given a time slot of 15 minutes, followed by 5 minutes Q&A.
 
-Additionally, authors of selected papers will be asked to participate in a panel discussion on improving adoption of Semantic Web technologies.
-
-Contributions are submitted via EasyChair: [https://www.easychair.org/conferences/?conf=wasabi2013](https://www.easychair.org/conferences/?conf=wasabi2013)
+Contributions are submitted via EasyChair: [https://www.easychair.org/conferences/?conf=wasabi2014](https://www.easychair.org/conferences/?conf=wasabi2014)
 
 ### Important dates
 
-<del>Submission</del>
-: <del>July 19, 2013</del>
+Submission
+: March 6, 2014
 
-<del>Notification
-: <del>Aug 9, 2013</del>
+Notification
+: April 1, 2014
 
 Camera ready version
-: Aug 30, 2013
+: April 15, 2014
 
 Workshop
-: Oct 22, 2013 (9:00 - 12:45)
+: May 25 or 26, 2014
 
 ### Organizing Committee
 
@@ -84,22 +79,23 @@ Workshop
 For enquiries, please contact the organizers at [wasabi2013@easychair.org](mailto:wasabi2013@easychair.org)
 
 ### Program Committee
-- Konstantin Baierer, Ex Libris, Germany
-- Panagiotis D. Bamidis, Aristotle University of Thessaloniki, Greece
-- Eva Blomqvist, Linköping University, Sweden
-- Andreas Blumauer, Semantic Web Company, Austria
-- Charalampos Bratsas, Aristotle University of Thessaloniki, Greece
-- Frithjof Dau, SAP Research, Germany
-- Kai Eckert, University of Mannheim, Germany
-- Daniel Garijo, Technical University of Madrid, Spain
-- Michael Hausenblas, MapR Technologies, Ireland
-- Erik Mannens, iMinds – Ghent University, Belgium
-- Peter Mika, Yahoo! Research, Spain
-- Heiko Paulheim, University of Mannheim, Germany
-- Florian Probst, SAP Research, Germany
-- Harald Sack, Hasso Plattner Institute, Germany
-- Kurt Sandkuhl, University of Rostock, Germany
-- Vladimir Tarasov, Jönköping University, Sweden
-- Sebastian Tramp, AKSW – University of Leipzig, Germany
-- Raphaël Troncy, Eurecom, France
-- Ruben Verborgh, iMinds – Ghent University, Belgium
+- Ghislain Atemezing - Eurecom, France
+- Konstantin Baierer - Ex Libris, Germany (not yet)
+- Eva Blomqvist - Linköping University, Sweden
+- Andreas Blumauer - Semantic Web Company, Austria (not yet /MK)
+- Frithjof Dau - SAP Research, Germany (not yet /DR)
+- Kai Eckert - University of Mannheim, Germany
+- Henrik Eriksson - Linköping University, Sweden
+- Daniel Garijo - Technical University of Madrid, Spain
+- Corey A. Harper - New York University Libraries, USA
+- Michael Hausenblas - MapR Technologies, Ireland (not yet)
+- Erik Mannens - iMinds – Ghent University, Belgium (not yet)
+- Peter Mika - Yahoo! Research, Spain (not yet)
+- Heiko Paulheim - University of Mannheim, Germany
+- Florian Probst - SAP Research, Germany (not yet /DR)
+- Kurt Sandkuhl - University of Rostock, Germany
+- Vladimir Tarasov - Jönköping University, Sweden (not yet /KH)
+- Sebastian Tramp - AKSW – University of Leipzig, Germany
+- Ruben Verborgh - iMinds – Ghent University, Belgium
+- Jörg Waitelonis - Yovisto.com, Germany
+
