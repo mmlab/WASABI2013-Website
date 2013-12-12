@@ -22,10 +22,12 @@ title: Committee
 - Daniel Garijo - Technical University of Madrid, Spain
 - Corey A. Harper - New York University Libraries, USA
 - Michael Hausenblas - MapR Technologies, Ireland (not yet)
-- Erik Mannens - iMinds – Ghent University, Belgium
+- Erik Mannens - iMinds – Ghent University, Belgium (not yet)
 - Peter Mika - Yahoo! Research, Spain (not yet)
 - Heiko Paulheim - University of Mannheim, Germany
 - Florian Probst - SAP Research, Germany (not yet /DR)
+- Kurt Sandkuhl - University of Rostock, Germany
+- Vladimir Tarasov - Jönköping University, Sweden (not yet /KH)
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
