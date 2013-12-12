@@ -79,22 +79,23 @@ Workshop
 For enquiries, please contact the organizers at [wasabi2013@easychair.org](mailto:wasabi2013@easychair.org)
 
 ### Program Committee
-- Konstantin Baierer, Ex Libris, Germany
-- Panagiotis D. Bamidis, Aristotle University of Thessaloniki, Greece
-- Eva Blomqvist, Linköping University, Sweden
-- Andreas Blumauer, Semantic Web Company, Austria
-- Charalampos Bratsas, Aristotle University of Thessaloniki, Greece
-- Frithjof Dau, SAP Research, Germany
-- Kai Eckert, University of Mannheim, Germany
-- Daniel Garijo, Technical University of Madrid, Spain
-- Michael Hausenblas, MapR Technologies, Ireland
-- Erik Mannens, iMinds – Ghent University, Belgium
-- Peter Mika, Yahoo! Research, Spain
-- Heiko Paulheim, University of Mannheim, Germany
-- Florian Probst, SAP Research, Germany
-- Harald Sack, Hasso Plattner Institute, Germany
-- Kurt Sandkuhl, University of Rostock, Germany
-- Vladimir Tarasov, Jönköping University, Sweden
-- Sebastian Tramp, AKSW – University of Leipzig, Germany
-- Raphaël Troncy, Eurecom, France
-- Ruben Verborgh, iMinds – Ghent University, Belgium
+- Ghislain Atemezing - Eurecom, France
+- Konstantin Baierer - Ex Libris, Germany (not yet)
+- Eva Blomqvist - Linköping University, Sweden
+- Andreas Blumauer - Semantic Web Company, Austria (not yet /MK)
+- Frithjof Dau - SAP Research, Germany (not yet /DR)
+- Kai Eckert - University of Mannheim, Germany
+- Henrik Eriksson - Linköping University, Sweden
+- Daniel Garijo - Technical University of Madrid, Spain
+- Corey A. Harper - New York University Libraries, USA
+- Michael Hausenblas - MapR Technologies, Ireland (not yet)
+- Erik Mannens - iMinds – Ghent University, Belgium (not yet)
+- Peter Mika - Yahoo! Research, Spain (not yet)
+- Heiko Paulheim - University of Mannheim, Germany
+- Florian Probst - SAP Research, Germany (not yet /DR)
+- Kurt Sandkuhl - University of Rostock, Germany
+- Vladimir Tarasov - Jönköping University, Sweden (not yet /KH)
+- Sebastian Tramp - AKSW – University of Leipzig, Germany
+- Ruben Verborgh - iMinds – Ghent University, Belgium (not yet)
+- Jörg Waitelonis - Yovisto.com, Germany
+
