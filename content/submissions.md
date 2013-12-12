@@ -96,6 +96,6 @@ For enquiries, please contact the organizers at [wasabi2013@easychair.org](mailt
 - Kurt Sandkuhl - University of Rostock, Germany
 - Vladimir Tarasov - Jönköping University, Sweden (not yet /KH)
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
-- Ruben Verborgh - iMinds – Ghent University, Belgium (not yet)
+- Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
 
