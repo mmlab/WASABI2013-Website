@@ -1,7 +1,7 @@
 ---
 title: Introduction
 order: 0
-header: Workshop on Semantic Web Enterprise Adoption and Best Practice
+header: 2nd International Workshop on Semantic Web Enterprise Adoption and Best Practice
 ---
 
 Welcome to the homepage of the WaSABi2014 ESWC workshop.
