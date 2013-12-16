@@ -31,4 +31,7 @@ title: Committee
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
+- Dan Brickley - Google
+- Peter Haase - Fluid Operations
+- Charles McCathie Nevile - Yandex
 
