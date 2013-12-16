@@ -94,7 +94,7 @@ For enquiries, please contact the organizers at [wasabi2013@easychair.org](mailt
 - Heiko Paulheim - University of Mannheim, Germany
 - Florian Probst - SAP Research, Germany (not yet /DR)
 - Kurt Sandkuhl - University of Rostock, Germany
-- Vladimir Tarasov - Jönköping University, Sweden (not yet /KH)
+- Vladimir Tarasov - Jönköping University, Sweden
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
