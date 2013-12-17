@@ -80,22 +80,25 @@ For enquiries, please contact the organizers at [wasabi2014@easychair.org](mailt
 
 ### Program Committee
 - Ghislain Atemezing - Eurecom, France
-- Konstantin Baierer - Ex Libris, Germany (not yet)
+- Konstantin Baierer - Ex Libris, Germany *
 - Eva Blomqvist - Linköping University, Sweden
-- Andreas Blumauer - Semantic Web Company, Austria (not yet /MK)
-- Frithjof Dau - SAP Research, Germany (not yet /DR)
+- Andreas Blumauer - Semantic Web Company, Austria *
+- Frithjof Dau - SAP Research, Germany *
 - Kai Eckert - University of Mannheim, Germany
 - Henrik Eriksson - Linköping University, Sweden
 - Daniel Garijo - Technical University of Madrid, Spain
 - Corey A. Harper - New York University Libraries, USA
-- Michael Hausenblas - MapR Technologies, Ireland (not yet)
-- Erik Mannens - iMinds – Ghent University, Belgium (not yet)
-- Peter Mika - Yahoo! Research, Spain (not yet)
+- Michael Hausenblas - MapR Technologies, Ireland *
+- Peter Mika - Yahoo! Research, Spain *
 - Heiko Paulheim - University of Mannheim, Germany
-- Florian Probst - SAP Research, Germany (not yet /DR)
+- Florian Probst - SAP Research, Germany *
 - Kurt Sandkuhl - University of Rostock, Germany
 - Vladimir Tarasov - Jönköping University, Sweden
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
+- Dan Brickley - Google, UK
+- Peter Haase - Fluid Operations, Germany
+- Charles McCathie Nevile - Yandex, Russia
 
+* TBC
