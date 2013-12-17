@@ -8,7 +8,8 @@ Welcome to the homepage of the WaSABi2013 ISWC workshop.
 
 *20 Oct. 2013*: Chris Welty confirmed as [keynote](http://wasabi-ws.org/keynote) <br />
 *13 Aug. 2013*: Programme and list of accepted papers are now [online](http://wasabi-ws.org/programme)<br />
-*5 Dec. 2013*: The proceedings are now published through CEUR [volume](http://ceur-ws.org/Vol-1106/)
+*5 Dec. 2013*: The proceedings are now published through CEUR [volume](http://ceur-ws.org/Vol-1106/)<br />
+
 ## The challenge
 
 Over the years, *Semantic Web* based systems, applications, and tools have shown significant improvement. 
