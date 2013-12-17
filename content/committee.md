@@ -34,5 +34,5 @@ title: Committee
 - Peter Haase - Fluid Operations, Germany
 - Charles McCathie Nevile - Yandex, Russia
 
-* TBC
+\* TBC
 
