@@ -26,6 +26,7 @@ title: Committee
 - Peter Mika, Yahoo! Research, Spain
 - Heiko Paulheim, University of Mannheim, Germany
 - Florian Probst, SAP Research, Germany
+- Jörg Schönfisch, Softplant, Germany
 - Harald Sack, Hasso Plattner Institute, Germany
 - Kurt Sandkuhl, University of Rostock, Germany
 - He Tan, Jönköping University, Sweden
