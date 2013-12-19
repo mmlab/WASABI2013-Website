@@ -13,16 +13,20 @@ title: Committee
 ## Program committee
 
 - Ghislain Atemezing - Eurecom, France
+- Sören Auer - University of Bonn, Fraunhofer IAIS, Germany
 - Konstantin Baierer - Ex Libris, Germany *
 - Eva Blomqvist - Linköping University, Sweden
-- Andreas Blumauer - Semantic Web Company, Austria *
+- Andreas Blumauer - Semantic Web Company, Austria
+- Dan Brickley - Google, UK
 - Frithjof Dau - SAP Research, Germany *
 - Kai Eckert - University of Mannheim, Germany
 - Henrik Eriksson - Linköping University, Sweden
 - Daniel Garijo - Technical University of Madrid, Spain
+- Peter Haase - Fluid Operations, Germany
 - Corey A. Harper - New York University Libraries, USA
-- Michael Hausenblas - MapR Technologies, Ireland *
-- Peter Mika - Yahoo! Research, Spain *
+- Michael Hausenblas - MapR Technologies, Ireland
+- Peter Mika - Yahoo! Research, Spain
+- Charles McCathie Nevile - Yandex, Russia
 - Heiko Paulheim - University of Mannheim, Germany
 - Florian Probst - SAP Research, Germany *
 - Kurt Sandkuhl - University of Rostock, Germany
@@ -30,9 +34,6 @@ title: Committee
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
-- Dan Brickley - Google, UK
-- Peter Haase - Fluid Operations, Germany
-- Charles McCathie Nevile - Yandex, Russia
 
 \* TBC
 
