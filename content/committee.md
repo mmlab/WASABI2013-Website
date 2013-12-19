@@ -33,6 +33,7 @@ title: Committee
 - Dan Brickley - Google, UK
 - Peter Haase - Fluid Operations, Germany
 - Charles McCathie Nevile - Yandex, Russia
+- Sören Auer - 
 
 \* TBC
 
