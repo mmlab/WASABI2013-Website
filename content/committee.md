@@ -16,6 +16,7 @@ title: Committee
 - Ghislain Atemezing - Eurecom, France
 - Sören Auer - University of Bonn, Fraunhofer IAIS, Germany
 - Konstantin Baierer - Ex Libris, Germany
+- Dan Brickley - Google, UK
 - Eva Blomqvist - Linköping University, Sweden
 - Andreas Blumauer - Semantic Web Company, Austria
 - Dan Brickley - Google, UK
