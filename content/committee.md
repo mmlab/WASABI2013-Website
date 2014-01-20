@@ -14,11 +14,11 @@ title: Committee
 
 - Ghislain Atemezing - Eurecom, France
 - Sören Auer - University of Bonn, Fraunhofer IAIS, Germany
-- Konstantin Baierer - Ex Libris, Germany *
+- Konstantin Baierer - Ex Libris, Germany
 - Eva Blomqvist - Linköping University, Sweden
 - Andreas Blumauer - Semantic Web Company, Austria
 - Dan Brickley - Google, UK
-- Frithjof Dau - SAP Research, Germany *
+- Frithjof Dau - SAP Research, Germany
 - Kai Eckert - University of Mannheim, Germany
 - Henrik Eriksson - Linköping University, Sweden
 - Daniel Garijo - Technical University of Madrid, Spain
@@ -28,12 +28,8 @@ title: Committee
 - Peter Mika - Yahoo! Research, Spain
 - Charles McCathie Nevile - Yandex, Russia
 - Heiko Paulheim - University of Mannheim, Germany
-- Florian Probst - SAP Research, Germany *
 - Kurt Sandkuhl - University of Rostock, Germany
 - Vladimir Tarasov - Jönköping University, Sweden
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
-
-\* TBC
-
