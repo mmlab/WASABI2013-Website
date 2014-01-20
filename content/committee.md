@@ -1,6 +1,7 @@
 ---
 title: Committee
 ---
+
 ## Organizing committee
 
 - [Marco Neumann](mailto:marco.neumann@gmail.com), KONA LLC

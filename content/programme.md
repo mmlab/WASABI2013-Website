@@ -3,17 +3,18 @@ title: Programme
 order: 3
 ---
 
-## Programme outline
+## Tentative Programme Outline
 
-Date: Tuesday 22nd of Octobre
+Date: Monday, May 26th / morning session
+[WaSABi 2014 @ ESWC2014](http://2014.eswc-conferences.org/workshops-tutorials#w2)
 
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
-| 10 min          | Introduction by the Chair        |
-| 20 min          | Opening keynote                  |
-| 60 min          | Paper session 1                  |
-| 60 min         | Break out Session                  |
-| 60 min         | Paper Session 2     |
+| 10 min        | Introduction by the Chair        |
+| 20 min        | Opening keynote                  |
+| 60 min        | Paper session 1                  |
+| 60 min        | Break out Session                |
+| 60 min        | Paper Session 2                  |
 
 ## Accepted papers
 <ul>
