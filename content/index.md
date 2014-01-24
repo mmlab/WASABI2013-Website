@@ -13,6 +13,7 @@ Over the years, *Semantic Web* based systems, applications, and tools have shown
 ------
 
 ## Leading the Way - Best Practices
+
 The workshop organizer team believes that an open dialog between research and industry is beneficial and aims at a discussion in terms of best practices for enabling better market access. The workshop will elicitate a set of best practices for the development and deployment of semantic technologies. So far we have identified but are not limited to the following areas:
 - The current disruptiveness of Semantic Web technology: past investments, time-to-market and compatibility with connected systems need to be considered. This raises concerns with new technologies – “Nobody ever got fired for buying IBM”, as an old saying goes – and making radical changes.
 - The lack of architectural modelling approaches using Semantic Web technology: A successful tool stack for semantic technology development has not yet emerged, nor are there recommended system architectures for developing and deploying ontology- and RDF(S)-backed applications. Does the traditional three tier architecture suffice, or are other structures required?
