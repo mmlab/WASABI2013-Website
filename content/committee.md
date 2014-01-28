@@ -1,5 +1,5 @@
 ---
-title: Committee
+title: Committees
 ---
 
 ## Organizing committee
