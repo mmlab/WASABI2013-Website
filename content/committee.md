@@ -35,4 +35,4 @@ title: Committees
 - Sebastian Tramp - AKSW – University of Leipzig, Germany
 - Ruben Verborgh - iMinds – Ghent University, Belgium
 - Jörg Waitelonis - Yovisto.com, Germany
-- Jo De Smedt - Tenforce, Belgium
+- Johan De Smedt - Tenforce, Belgium
