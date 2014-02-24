@@ -19,7 +19,6 @@ title: Committees
 - Dan Brickley - Google, UK
 - Eva Blomqvist - Linköping University, Sweden
 - Andreas Blumauer - Semantic Web Company, Austria
-- Dan Brickley - Google, UK
 - Frithjof Dau - SAP Research, Germany
 - Kai Eckert - University of Mannheim, Germany
 - Henrik Eriksson - Linköping University, Sweden
