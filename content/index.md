@@ -6,6 +6,8 @@ header: 2nd International Workshop on Semantic Web Enterprise Adoption and Best 
 
 Welcome to the homepage of the WaSABi2014 ESWC workshop.
 
+*14 March. 2014*: Submission deadline extended until *March 21st*!
+
 ## The challenge
 
 In recent years Semantic Web based systems, applications and tools have shown significant improvement. Their increased deployment indicates a steady maturing of semantic technologies and demonstrates their value in solving current and emerging problems. Though the number of enterprises working on and with these technologies is dwarfed by the number who have not yet adopted semantic technologies. Possible reasons for this include lack of well known enterprise use cases and market dynamics in academia on the one hand, and lack of easy to use standard architectures, frameworks, and system design patterns on the other hand.
