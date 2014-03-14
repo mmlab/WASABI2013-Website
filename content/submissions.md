@@ -33,7 +33,7 @@ Accepted authors are given a presentation time slot of 15 minutes, with 5 minute
 ## Important dates
 
 Submission
-: March 14, 2014
+: <del>March 14, 2014</del> March 21, 2014 (extended)
 
 Notification
 : April 7, 2014
