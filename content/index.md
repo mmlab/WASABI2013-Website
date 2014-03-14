@@ -6,7 +6,7 @@ header: 2nd International Workshop on Semantic Web Enterprise Adoption and Best 
 
 Welcome to the homepage of the WaSABi2014 ESWC workshop.
 
-*14 March. 2014*: Submission deadline extended until [*March 21st*](/submissions)!
+*14 March. 2014*: Submission deadline extended until [*March 21st*](/submissions/)!
 
 ## The challenge
 
