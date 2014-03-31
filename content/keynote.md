@@ -15,7 +15,9 @@ This talk will discuss topics related to the challenge of â€œcrossing the chasmâ
 
 ## About the speaker
 
+![](https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/008/290/0630d58.jpg)
+
 Marin Dimitrov is the CTO of Ontotext AD, with more than 12 years of experience in the company. His work experience includes research and development in areas related to enterprise integration systems, text mining, ontology management and Linked Data. Marin has a MSc degree in Artificial Intelligence from the University of Sofia (Bulgaria), and he is currently involved in projects related to Big Data, Cloud Computing and scalable many-core systems.
 https://www.linkedin.com/in/marindimitrov
 
-![](https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/008/290/0630d58.jpg)
+
