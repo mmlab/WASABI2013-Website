@@ -11,7 +11,7 @@ Date: Monday, May 26th / morning session
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
 | 9:30          | Introduction by the Chairs       |
-| 9:35          | Keynote by Marcin Dimitrov       |
+| 9:35          | [Keynote](/keynote) by Marin Dimitrov, CTO Ontotext      |
 | 10:05         | [CROCUS: Cluster-based ontology data cleansing](/papers/wasabi2014_paper_1.pdf) |
 |               | Didier Cherix, Ricardo Usbeck, Andreas Both and Jens Lehmann |
 | 10:30         | Break                            |
