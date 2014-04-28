@@ -12,14 +12,14 @@ Date: Monday, May 26th / morning session
 | ------------- |:--------------------------------:|
 | 9:30          | Introduction by the Chairs       |
 | 9:35          | Keynote by Marcin Dimitrov       |
-| 10:05         | [CROCUS: Cluster-based ontology data cleansing](/assets/wasabi2014_paper_1.pdf) |
+| 10:05         | [CROCUS: Cluster-based ontology data cleansing](/papers/wasabi2014_paper_1.pdf) |
 |               | Didier Cherix, Ricardo Usbeck, Andreas Both and Jens Lehmann |
 | 10:30         | Break                            |
-| 11:00         | [IRIS: A Protege Plug-in to Extract and Serialize Product Attribute Name-Value Pairs](/assets/wasabi2014_paper_2.pdf) |
+| 11:00         | [IRIS: A Protege Plug-in to Extract and Serialize Product Attribute Name-Value Pairs](/papers/wasabi2014_paper_2.pdf) |
 |               | Tuğba Özacar | 
-| 11:25         | [Ontology Design Patterns: Adoption Challenges and Solutions](/assets/wasabi2014_paper_3.pdf) |
+| 11:25         | [Ontology Design Patterns: Adoption Challenges and Solutions](/papers/wasabi2014_paper_3.pdf) |
 |               | Karl Hammar |
-| 11:50         | [Mapping Representation based on Meta-data and SPIN for Localization Workflows](/assets/wasabi2014_paper_4.pdf) |
+| 11:50         | [Mapping Representation based on Meta-data and SPIN for Localization Workflows](/papers/wasabi2014_paper_4.pdf) |
 |               | Alan Meehan, Rob Brennan, Dave Lewis and Declan O'Sullivan |
 | 12:15         | Break out Session                |
 | 12:50         | Closing                          |
