@@ -10,33 +10,20 @@ Date: Monday, May 26th / morning session
 
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
-| 10 min        | Introduction by the Chair        |
-| 20 min        | Opening keynote                  |
-| 60 min        | Paper session 1                  |
-| 60 min        | Break out Session                |
-| 60 min        | Paper Session 2                  |
+| 9:30          | Introduction by the Chairs       |
+| 9:35          | Keynote by Marcin Dimitrov       |
+| 10:05         | [CROCUS: Cluster-based ontology data cleansing](/assets/wasabi2014_paper_1.pdf) |
+|               | Didier Cherix, Ricardo Usbeck, Andreas Both and Jens Lehmann |
+| 10:30         | Break                            |
+| 11:00         | [IRIS: A Protege Plug-in to Extract and Serialize Product Attribute Name-Value Pairs](/assets/wasabi2014_paper_2.pdf) |
+|               | Tuğba Özacar | 
+| 11:25         | [Ontology Design Patterns: Adoption Challenges and Solutions](/assets/wasabi2014_paper_3.pdf) |
+|               | Karl Hammar |
+| 11:50         | [Mapping Representation based on Meta-data and SPIN for Localization Workflows](/assets/wasabi2014_paper_4.pdf) |
+|               | Alan Meehan, Rob Brennan, Dave Lewis and Declan O'Sullivan |
+| 12:15         | Break out Session                |
+| 12:50         | Closing                          |
 
-## Accepted papers
-
-<ul>
-<%
-  papers = @items.find_all{ |i| i.identifier =~ /^\/papers\/.+/ }
-  papers.each do |paper|
-%>
-<li itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <a href='<%= paper.identifier %>paper.pdf' itemprop="name"><%= h paper[:title] %></a>
-  <%=
-    authors = paper[:author]
-    authors.to_a.map{ |a| h "#{a.first} #{a.prefix} #{a.last} #{a.suffix}".strip }.
-      map{ |a| "<span itemprop='author'>#{a}</span>" }.
-      join(authors.length <= 2 ? ' and ' : ', ').
-      sub(/, ([^,]+)$/, ', and \1')
-  %>
-</li>
-<%
-  end
-%>
-</ul>
 
 ## Target audience
 
