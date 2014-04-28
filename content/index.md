@@ -6,6 +6,8 @@ header: 2nd International Workshop on Semantic Web Enterprise Adoption and Best 
 
 Welcome to the homepage of the WaSABi2014 ESWC workshop.
 
+*April 28, 2014*: The list of accepted papers and final [programme](/keynote/) are online!
+
 *March 31, 2014*: [Keynote](/keynote/) by Marin Dimitrov, CTO Ontotext confirmed!
 
 *March 14, 2014*: Submission deadline extended until [*March 21st*](/submissions/)!
