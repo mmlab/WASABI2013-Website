@@ -3,7 +3,7 @@ title: Programme
 order: 3
 ---
 
-## Tentative Programme Outline
+## Programme Outline
 
 Date: Monday, May 26th / morning session
 [WaSABi 2014 @ ESWC2014](http://2014.eswc-conferences.org/workshops-tutorials#w2)
