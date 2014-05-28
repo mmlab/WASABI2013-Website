@@ -7,7 +7,7 @@ header: Keynote
 ##Crossing the Chasm with Semantic Technologies
 **Marin Dimitrov, CTO Ontotext**
 
-Slides: http://www.slideshare.net/marin_dimitrov/wa-sa-bi2014crossingthechasm
+[Slides](http://www.slideshare.net/marin_dimitrov/wa-sa-bi2014crossingthechasm)
 
 After more than a decade of active efforts towards establishing Semantic Web, Linked Data and related standards, the verdict of whether the technology has delivered its promise and has proven itself in the enterprise is still unclear, despite the numerous existing success stories.
 
