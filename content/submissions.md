@@ -32,7 +32,7 @@ Submission criteria are as follows:
 
 * Papers must adhere to the [LNCS format guidelines](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 * Papers are limited to eight pages (including figures, tables and appendices).
-* Papers are submitted in PDF format via [the workshop's EasyChair submission pages](https://www.easychair.org/conferences/?conf=wasabi2014). 
+* Papers are submitted in PDF format via [the workshop's EasyChair submission pages](https://easychair.org/conferences/?conf=wasabiekaw2014). 
 
 Accepted authors are given a presentation time slot of 15 minutes, with 5 minutes Q&A.
 
@@ -50,4 +50,4 @@ Camera ready version
 Workshop
 : November 24/25 (TBD), 2014
 
-For enquiries, please contact the organizers at [wasabi2014@easychair.org](mailto:wasabi2014@easychair.org)
+For enquiries, please contact the organizers at [wasabiekaw2014@easychair.org](mailto:wasabiekaw2014@easychair.org)
