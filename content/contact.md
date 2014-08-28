@@ -7,4 +7,4 @@ Organizers Email address
 : [wasabiekaw2014@easychair.org](mailto:wasabiekaw2014@easychair.org)
 
 Twitter Hashtag
-: [#wasabi2014](https://twitter.com/search/realtime?q=%23wasabi2014)
+: [#WaSASI2014](https://twitter.com/search/realtime?q=%23wasasi2014)
