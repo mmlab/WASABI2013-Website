@@ -6,6 +6,8 @@ header: 3rd International Workshop on Semantic Web Enterprise Adoption and Best 
 
 Welcome to the homepage of the WaSABi2014 EKAW workshop.
 
+*September 19, 2014*: Submission deadline extended until [*September 26st*](/submissions/)!
+
 ## The challenge
 There is a disconnect between the Semantic Web research and commercial practitioner communities, as evidenced by the limited uptake of these very promising technologies in the broader industry. Researchers steadily improve upon logic modelling and query languages, reasoners and triple stores, and development tooling - but all too often, these improvements are driven not by real business needs, but rather by the interests of researchers to work on and solve interesting challenges (e.g., more complex reasoning tasks), or to obtain government funding (e.g., for putting yet another public dataset online). Conversely, practitioners are oftentimes unaware of how existing Semantic Web technologies can help solve their problems (such as data or service integration, conflict detection and resolution, or event processing). Even in the cases that they do know about these Semantic Web solutions, most practitioners lack the knowledge about tooling, scalability issues, design patterns, etc., that is required in order to successfully apply them.
 
