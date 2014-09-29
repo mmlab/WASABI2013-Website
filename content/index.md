@@ -6,6 +6,7 @@ header: 3rd International Workshop on Semantic Web Enterprise Adoption and Best 
 
 Welcome to the homepage of the WaSABi2014 EKAW workshop.
 
+*September 29, 2014*: WaSABi SI 2014 CANCELLED. We are sorry to inform you that this edition of WaSABi has been cancelled, due to a lack of submissions.
 *September 19, 2014*: Submission deadline extended until [*September 26st*](/submissions/)!
 
 ## The challenge
