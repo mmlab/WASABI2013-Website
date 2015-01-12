@@ -5,7 +5,7 @@ order: 1
 
 ## Topics Of Interest
 
-Topics for presentation and discussion at the workshop include both technical and usage­oriented issues. They include everything that helps improve and shortening development and deployment time for an academic or a practitioner, wishing to work with semantic technologies. 
+Topics for presentation and discussion at the workshop include both technical and usage-oriented issues. They include everything that helps improve and shortening development and deployment time for an academic or a practitioner, wishing to work with semantic technologies. 
 
 * Surveys or case studies on Semantic Web technology in enterprise systems
 * Semantic Technology Market Analysis
