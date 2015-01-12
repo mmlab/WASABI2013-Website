@@ -5,18 +5,19 @@ order: 1
 
 ## Topics Of Interest
 
-Topics for presentation and discussion at the workshop include both technical and usage-oriented issues. They include everything that helps shortening development and deployment time for an academic or a practitioner, wishing to work with semantic technologies.
+Topics for presentation and discussion at the workshop include both technical and usage­oriented issues. They include everything that helps improve and shortening development and deployment time for an academic or a practitioner, wishing to work with semantic technologies. 
 
 * Surveys or case studies on Semantic Web technology in enterprise systems
+* Semantic Technology Market Analysis
 * Comparative studies on the evolution of Semantic Web adoption
 * Semantic systems and architectures of methodologies for industrial challenges
-* Semantic Web based implementations and design patterns for enterprise systems
+* Semantic Web based implementations and design patterns for enterprise systems 
 * Enterprise platforms using Semantic Web technology as part of the workflow
-* Architectural overviews for Semantic Web systems
-* Design patterns for semantic technology architectures and algorithms
-* System development methods as applied to semantic technologies
-* Semantic toolkits for enterprise applications
-* Surveys on identified best practices based on Semantic Web technology
+* Architectural overviews for Semantic Web systems 
+* Design patterns for semantic technology architectures and algorithms 
+* System development methods as applied to semantic technologies 
+* Semantic toolkits for enterprise applications 
+* Surveys on identified best practices based on Semantic Web technology 
 * Linked Data integration and change management
 
 Of special interest are papers that touch upon the issues discussed during the brainstorming sessions of WaSABi 2014 at ESWC (proceedings forthcoming): 
@@ -32,22 +33,22 @@ Submission criteria are as follows:
 
 * Papers must adhere to the [LNCS format guidelines](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 * Papers are limited to eight pages (including figures, tables and appendices).
-* Papers are submitted in PDF format via [the workshop's EasyChair submission pages](https://easychair.org/conferences/?conf=wasabiekaw2014). 
+* Papers are submitted in PDF format via [the workshop's EasyChair submission pages](https://easychair.org/conferences/?conf=wasabi2015). 
 
 Accepted authors are given a presentation time slot of 15 minutes, with 5 minutes Q&A.
 
 ## Important dates
 
 Submission
-: <del>September 19, 2014</del> September 26, 2014 (extended)
+: Friday March 6, 2015
 
 Notification
-: October 17, 2014
+: Friday April 3, 2015
 
 Camera ready version
-: October 31, 2014
+: Friday April 17, 2015
 
 Workshop
-: November 24/25 (TBD), 2014
+: May 31 / June 1 (TBD), 2015
 
-For enquiries, please contact the organizers at [wasabiekaw2014@easychair.org](mailto:wasabiekaw2014@easychair.org)
+For enquiries, please contact the organizers at [wasabi2015@easychair.org](mailto:wasabi2015@easychair.org)
