@@ -20,12 +20,13 @@ Andreas Blumauer  Semantic Web Company, Austria
 Frithjof Dau  SAP Research, Germany
 Kai Eckert  University of Mannheim, Germany
 Heiko Ehrig  neofonie, Germany
+Roberto Garcia  Universitat de Lleida, Spain‏
 Paul Gearon  Teradata, USA
 Corey A. Harper  New York University Libraries, USA
 Peter Mika  Yahoo! Research, Spain
 Heiko Paulheim  University of Mannheim, Germany 
 Florian Probst  SAP Research, Germany 
 Ruben Verborgh  iMinds – Ghent University, Belgium
-Chris Welty  Google, USA  
+Chris Welty  Google, USA
 
 *TBC*
