@@ -13,20 +13,18 @@ order: 5
 - [Miel Vander Sande](mailto:miel.vandersande@ugent.be), iMinds – Multimedia Lab – Ghent University
 
 ## Program committee
-Ghislain Atemezing  Eurecom, France 
-Konstantin Baierer  Ex Libris, Germany
-Eva Blomqvist  Linköping University, Sweden
-Andreas Blumauer  Semantic Web Company, Austria
-Frithjof Dau  SAP Research, Germany
-Kai Eckert  University of Mannheim, Germany
-Heiko Ehrig  neofonie, Germany
-Roberto Garcia  Universitat de Lleida, Spain‏
-Paul Gearon  Teradata, USA
-Corey A. Harper  New York University Libraries, USA
-Peter Mika  Yahoo! Research, Spain
-Heiko Paulheim  University of Mannheim, Germany 
-Florian Probst  SAP Research, Germany 
-Ruben Verborgh  iMinds – Ghent University, Belgium
-Chris Welty  Google, USA
+* Ghislain Atemezing  Eurecom, France 
+* Konstantin Baierer  University Library Mannheim, Germany
+* Eva Blomqvist  Linköping University, Sweden
+* Andreas Blumauer  Semantic Web Company, Austria
+* Frithjof Dau  SAP Research, Germany
+* Kai Eckert  University of Mannheim, Germany
+* Heiko Ehrig  neofonie, Germany
+* Roberto Garcia  Universitat de Lleida, Spain‏
+* Paul Gearon  Teradata, USA
+* Corey A. Harper  New York University Libraries, USA
+* Peter Mika  Yahoo! Research, Spain
+* Heiko Paulheim  University of Mannheim, Germany 
+* Ruben Verborgh  iMinds – Ghent University, Belgium
+* Chris Welty  Google, USA
 
-*TBC*
