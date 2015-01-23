@@ -25,6 +25,7 @@ order: 5
 * Corey A. Harper  New York University Libraries, USA
 * Peter Mika  Yahoo! Research, Spain
 * Heiko Paulheim  University of Mannheim, Germany 
+* Alessandro Seganti  Cognitum, Poland
 * Ruben Verborgh  iMinds – Ghent University, Belgium
 * Chris Welty  Google, USA
 
