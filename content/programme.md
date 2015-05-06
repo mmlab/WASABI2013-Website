@@ -26,7 +26,7 @@ Date: May 30
   papers.each do |paper|
 %>
 <li itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <a href='<%= paper.identifier %>.pdf' itemprop="name"><%= h paper[:title] %></a>
+  <a href='<%= paper.identifier %>' itemprop="name"><%= h paper[:title] %></a>
   <%=
     authors = paper[:author]
     authors.to_a.map{ |a| h "#{a.first} #{a.prefix} #{a.last} #{a.suffix}".strip }.
