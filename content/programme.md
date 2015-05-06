@@ -5,17 +5,17 @@ order: 3
 
 ## Tentative Programme Outline
 
-Date: November 24/25 (TBD)
+Date: May 30 
 
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
 | 9:30          | Introduction by the chairs       |
 | 9:40          | Keynote talk                     |
-| 10:10         | Paper 1 presentation             |
+| 10:10         | Text Analytics and Linked Data Management As-a-Service with S4 - Marin Dimitrov, Alex Simov and Yavor Petkov|
 | 10:30         | Break                            |
-| 11:00         | Paper 2 presentation             | 
-| 11:20         | Paper 3 presentation             |
-| 11:40         | Paper 4 presentation             |
+| 11:00         | The GeoKnow Generator Workbench: An Integration Platform for Geospatial Data - Alejandra Garcia-Rojas, Daniel Hladky, Matthias Wauer, Andreas Both, Robert Isele, Claus Stadler and Jens Lehmann| 
+| 11:20         | Applying Semantic Technology to Film Production - Jos Lehmann, Sarah Atkinson and Roger Evans|
+| 11:40         | Semantic Social Networks Lotico Community Review - Marco Neumann|
 | 12:00         | Break out session                |
 | 12:50         | Closing                          |
 
