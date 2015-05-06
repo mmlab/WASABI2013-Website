@@ -28,7 +28,7 @@ route '/humans' do
 end
 
 route '/papers/*' do
-  item + '.' + item[:extension]
+  item.identifier + '.' + item[:extension]
 end
 
 route '*' do
