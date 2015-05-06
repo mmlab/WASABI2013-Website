@@ -26,7 +26,7 @@ Date: May 30
   papers.each do |paper|
 %>
 <li itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <%= paper %>
+  <%= paper.identifier %>
   <a href="<%= paper.identifier %>" itemprop="name"><%= h paper[:title] %></a>
   <%=
     authors = paper[:author]
