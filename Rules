@@ -28,7 +28,7 @@ route '/humans' do
 end
 
 route '/papers/*' do
-  nil
+  item.identifier.chop + '.' + item[:extension]
 end
 
 route '*' do
