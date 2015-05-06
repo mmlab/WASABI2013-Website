@@ -28,7 +28,7 @@ route '/humans' do
 end
 
 route '/papers/*' do
-  item.identifier + '.' + item[:extension]
+  item.identifier.chop + '.pdf'
 end
 
 route '*' do
