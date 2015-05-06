@@ -28,7 +28,7 @@ route '/humans' do
 end
 
 route '/papers/*' do
-  item.identifier.chop + '.pdf'
+  nil
 end
 
 route '*' do
