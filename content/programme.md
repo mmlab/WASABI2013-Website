@@ -22,7 +22,7 @@ Date: May 30
 ## Accepted papers
 <ul>
 <%
-  papers = @items.find_all{ |i| i.identifier =~ /^\/papers\/.+/ }
+  papers = @items.find_all{ |i| i.identifier =~ /^\/papers\/.+\// }
   papers.each do |paper|
 %>
 <li itemscope itemtype="http://schema.org/ScholarlyArticle">
