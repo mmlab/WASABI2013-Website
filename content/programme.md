@@ -5,7 +5,7 @@ order: 3
 
 ## Tentative Programme Outline
 
-Date: May 30 
+Date: May 31, 2015 
 
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
