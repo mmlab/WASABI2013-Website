@@ -10,7 +10,7 @@ Date: May 31, 2015
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
 | 9:30          | Introduction by the chairs       |
-| 9:40          | Keynote: Prof. Dr. rer. nat. Adrian Paschke |
+| 9:40          | Keynote: Prof. Dr. Adrian Paschke, Freie Universität Berlin - Corporate Semantic Web - The Semantic Web Meets the Enterprise |
 | 10:10         | Text Analytics and Linked Data Management As-a-Service with S4 - Marin Dimitrov, Alex Simov and Yavor Petkov|
 | 10:30         | Break                            |
 | 11:00         | The GeoKnow Generator Workbench: An Integration Platform for Geospatial Data - Alejandra Garcia-Rojas, Daniel Hladky, Matthias Wauer, Andreas Both, Robert Isele, Claus Stadler and Jens Lehmann| 
