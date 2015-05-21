@@ -10,13 +10,8 @@ Date: May 31, 2015
 | Time          | Topic                            |
 | ------------- |:--------------------------------:|
 | 9:30          | Introduction by the chairs       |
-<<<<<<< HEAD
 | 9:40          | Keynote: **Corporate Semantic Web - The Semantic Web Meets the Enterprise** <br> *Prof. Dr. Adrian Paschke, Freie Universit&auml;t Berlin* |
 | 10:10         | **Text Analytics and Linked Data Management As-a-Service with S4** <br> *Marin Dimitrov, Alex Simov and Yavor Petkov*|
-=======
-| 9:40          | Keynote: Corporate Semantic Web - The Semantic Web Meets the Enterprise <br> **Prof. Dr. Adrian Paschke, Freie Universität Berlin** |
-| 10:10         | Text Analytics and Linked Data Management As-a-Service with S4 <br> **Marin Dimitrov, Alex Simov and Yavor Petkov**|
->>>>>>> origin/2015
 | 10:30         | Break                            |
 | 11:00         | **The GeoKnow Generator Workbench: An Integration Platform for Geospatial Data** <br> *Alejandra Garcia-Rojas, Daniel Hladky, Matthias Wauer, Andreas Both, Robert Isele, Claus Stadler and Jens Lehmann*| 
 | 11:20         | **Applying Semantic Technology to Film Production** <br> *Jos Lehmann, Sarah Atkinson and Roger Evans*|
